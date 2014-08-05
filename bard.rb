@@ -1,1 +1,4 @@
-puts "alas poor yorick I knew him well"
+puts "what is your name"
+name = gets.chomp
+
+puts "alas poor #{name} I knew him well"
